@@ -1,1 +1,1 @@
-# Labyrinth-Solver
+# Maze-Solver
